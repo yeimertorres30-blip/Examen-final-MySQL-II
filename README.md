@@ -11,7 +11,7 @@ Se implementó la integración de reservas provenientes de plataformas externas 
 
 ## Contenido del archivo
 
-**`06_integracion_reservas_externas.sql`**
+**`1892_integracion_reservas_externas.sql`**
 
 El script realiza lo siguiente:
 
